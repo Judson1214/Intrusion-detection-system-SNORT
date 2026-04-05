@@ -1,4 +1,4 @@
-                                                       Building a Basic Intrusion Detection Lab using Snort
+                                           Building a Basic Intrusion Detection Lab using Snort
 
 
 
